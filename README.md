@@ -1,4 +1,4 @@
-**React Random User App**
+#React Random User App
 
 _This is a simple Random User Predictor app built with React, Redux, and Redux Thunk. It gives you the random users everytime you refresh._
 
