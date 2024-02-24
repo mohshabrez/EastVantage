@@ -1,11 +1,16 @@
-#React Random User App
-This is a simple Random User Predictor app built with React, Redux, and Redux Thunk. It gives you the random users everytime you refresh.
-Getting Started
-To get started, clone this repository and install the dependencies:
+#**React Random User App**
+
+_This is a simple Random User Predictor app built with React, Redux, and Redux Thunk. It gives you the random users everytime you refresh._
+
+**Getting Started[^1].**
+
+###To get started, clone this repository and install the dependencies:
+'''
 git clone https://github.com/mohshabrez/EastVantage.git
 cd EastVantage
 cd my-app
 npm install
+'''
 Next, start the development server:
 npm start
 This will start the app in development mode, and you can view it by navigating to http://localhost:3000 in your browser.
